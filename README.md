@@ -24,7 +24,7 @@ API Referrence :https://platform.openai.com/docs/guides/chat/introduction
  OPENAI_ORGANIZATION_ID
  
 ### API Gateway作成
-　AWS lambda、GCP cloud functionsなどの場合、API Gatewayなどを容易に用意することができます。
+AWS lambda、GCP cloud functionsなどの場合、API Gatewayなどを容易に用意することができます。
 
 ### webhook設定
 Messaging APIのwebhook先を用意(API Gateway)してwebhook先に登録してください。
